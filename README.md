@@ -2,4 +2,6 @@
 It's a online To Do List website I created using HTML,CSS and JS for listing important task one have to complete in a day. 
 Preview:
 
-![image](https://github.com/CforCodin/Online-To-Do-List/assets/98217459/dc120dcc-b3de-4523-bd8e-67225ae5ad77)
+
+![image](https://github.com/CforCodin/LGMVIP-Web-1/assets/98217459/8e5f2263-a29d-4484-aa1e-b5e4dd4bfb28)
+
